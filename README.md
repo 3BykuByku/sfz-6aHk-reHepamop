@@ -1,14 +1,13 @@
 
-# Test for peachpie cli application
+- переписать на perl
 
-- Install for Windows https://www.microsoft.com/net/core#windowscmd (or Linux)
+- утилита для правки путей lmms проекта
 
-- Run commands in terminal
+- генератор на основе формата lmms
 
-```
-dotnet restore
-dotnet run -p app
-```
+- отредактировать readme.md
+
+---
 
 # Генератор multi-layered sfz из папки семплов
 
