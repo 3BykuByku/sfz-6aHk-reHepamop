@@ -1,0 +1,6 @@
+*.sfz
+!example-generated.sfz
+
+/bin/
+/obj/
+/project.lock.json

@@ -1,0 +1,28 @@
+{
+  "name": "sfztools",
+  "version": "1.0.0-*",
+  "description": "Tool for generating multi-layered sfz from samples folder",
+  "buildOptions": {
+    "compilerName": "php",
+    "compile": "**\\*.php",
+    "emitEntryPoint": true,
+    "debugType": "portable"
+  },
+  "dependencies": {
+  	"Peachpie.App": "0.4.0-*",
+    "phplib" : "*"
+	},
+  "tools": {
+  	"Peachpie.Compiler.Tools": "0.4.0-*"
+	},
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+        	"type": "platform",
+        	"version": "1.1.0"
+       	}
+      }
+    }
+  }
+}

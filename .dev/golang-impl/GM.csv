@@ -1,0 +1,63 @@
+kick	35	B0	Acoustic Bass Drum / Bass Drum 2
+kick2	36	C1	Bass Drum 1
+
+snare	38	D1	Acoustic Snare / Snare Drum 1
+snar2	40	E1	Electric Snare / Snare Drum 2
+rims	37	C#1	Side Stick / Rimshot
+clap	39	Eb1	Hand Clap
+
+lftom	41	F1	Low Floor Tom / Low Tom 2
+hftom	43	G1	High Floor Tom / Low Tom 1
+ltom	45	A1	Low Tom / Mid Tom 2
+lmtom	47	B1	Low-Mid Tom / Mid Tom 1
+hmtom	48	C2	Hi Mid Tom / High Tom 2
+htom	50	D2	High Tom 1
+
+ophat	46	Bb1	Open Hi-hat
+clhat	42	F#1	Closed Hi-hat
+pehat	44	Ab1	Pedal Hi-hat
+
+ride1	51	Eb2	Ride Cymbal 1
+ride2	59	B2	Ride Cymbal 2
+rbell	53	F2	Ride Bell
+
+spcy	55	G2	Splash Cymbal
+chicy	52	E2	Chinese Cymbal
+crcy1	49	C#2	Crash Cymbal 1
+crcy2	57	A2	Crash Cymbal 2
+
+tambo	54	F#2	Tambourine
+cowb	56	Ab2	Cowbell
+vslap	58	Bb2	Vibra Slap
+
+hbong	60	C3	High Bongo
+lbong	61	C#3	Low Bongo
+
+hcong	62	D3	Mute High Conga
+ocong	63	Eb3	Open High Conga
+lcong	64	E3	Low Conga
+
+htimb	65	F3	High Timbale
+ltimb	66	F#3	Low Timbale
+
+hago	67	G3	High Agogo
+lago	68	Ab3	Low Agogo
+
+cabas	69	A3	Cabasa
+marac	70	Bb3	Maracas
+
+swhis	71	B3	Short Whistle
+lwhis	72	C4	Long Whistle
+
+sguir	73	C#4	Short Guiro
+lguir	74	D4	Long Guiro
+
+clav	75	Eb4	Claves
+hwood	76	E4	High Wood Block
+lwood	77	F4	Low Wood Block
+
+mcuic	78	F#4	Mute Cuica
+ocuic	79	G4	Open Cuica
+
+mtria	80	Ab4	Mute Triangle
+otria	81	A4	Open Triangle

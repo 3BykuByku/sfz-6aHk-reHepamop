@@ -1,0 +1,646 @@
+
+// High Floor Tom / Low Tom 1
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=8 sample=hftom\CLudwigTom1-DynLH01.wav seq_length=2 seq_position=1
+<region> lovel=0 hivel=8 sample=hftom\CLudwigTom1-DynRH01.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=8 hivel=16 sample=hftom\CLudwigTom1-DynLH02.wav seq_length=2 seq_position=1
+<region> lovel=8 hivel=16 sample=hftom\CLudwigTom1-DynRH02.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=24 sample=hftom\CLudwigTom1-DynLH03.wav seq_length=2 seq_position=1
+<region> lovel=16 hivel=24 sample=hftom\CLudwigTom1-DynRH03.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=24 hivel=32 sample=hftom\CLudwigTom1-DynLH04.wav seq_length=2 seq_position=1
+<region> lovel=24 hivel=32 sample=hftom\CLudwigTom1-DynRH04.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=40 sample=hftom\CLudwigTom1-DynLH05.wav seq_length=2 seq_position=1
+<region> lovel=32 hivel=40 sample=hftom\CLudwigTom1-DynRH05.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=40 hivel=48 sample=hftom\CLudwigTom1-DynLH06.wav seq_length=2 seq_position=1
+<region> lovel=40 hivel=48 sample=hftom\CLudwigTom1-DynRH06.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=56 sample=hftom\CLudwigTom1-DynLH07.wav seq_length=2 seq_position=1
+<region> lovel=48 hivel=56 sample=hftom\CLudwigTom1-DynRH07.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=56 hivel=64 sample=hftom\CLudwigTom1-DynLH08.wav seq_length=2 seq_position=1
+<region> lovel=56 hivel=64 sample=hftom\CLudwigTom1-DynRH08.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=72 sample=hftom\CLudwigTom1-DynLH09.wav seq_length=2 seq_position=1
+<region> lovel=64 hivel=72 sample=hftom\CLudwigTom1-DynRH09.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=72 hivel=80 sample=hftom\CLudwigTom1-DynLH10.wav seq_length=2 seq_position=1
+<region> lovel=72 hivel=80 sample=hftom\CLudwigTom1-DynRH10.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=88 sample=hftom\CLudwigTom1-DynLH11.wav seq_length=2 seq_position=1
+<region> lovel=80 hivel=88 sample=hftom\CLudwigTom1-DynRH11.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=88 hivel=96 sample=hftom\CLudwigTom1-DynLH12.wav seq_length=2 seq_position=1
+<region> lovel=88 hivel=96 sample=hftom\CLudwigTom1-DynRH12.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=104 sample=hftom\CLudwigTom1-DynLH13.wav seq_length=2 seq_position=1
+<region> lovel=96 hivel=104 sample=hftom\CLudwigTom1-DynRH13.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=104 hivel=112 sample=hftom\CLudwigTom1-DynLH14.wav seq_length=2 seq_position=1
+<region> lovel=104 hivel=112 sample=hftom\CLudwigTom1-DynRH14.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=120 sample=hftom\CLudwigTom1-DynLH15.wav seq_length=2 seq_position=1
+<region> lovel=112 hivel=120 sample=hftom\CLudwigTom1-DynRH15.wav seq_length=2 seq_position=2
+
+<group> key=43 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=120 hivel=127 sample=hftom\CLudwigTom1-DynLH16.wav seq_length=2 seq_position=1
+<region> lovel=120 hivel=127 sample=hftom\CLudwigTom1-DynRH16.wav seq_length=2 seq_position=2
+
+// Crash Cymbal 2
+
+<group> key=57 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=16 sample=crcy2\ZildjinCrsh 2-Dyn02.wav
+
+<group> key=57 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=32 sample=crcy2\ZildjinCrsh 2-Dyn03.wav
+
+<group> key=57 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=48 sample=crcy2\ZildjinCrsh 2-Dyn04.wav
+
+<group> key=57 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=64 sample=crcy2\ZildjinCrsh 2-Dyn05.wav
+
+<group> key=57 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=80 sample=crcy2\ZildjinCrsh 2-Dyn06.wav
+
+<group> key=57 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=96 sample=crcy2\ZildjinCrsh 2-Dyn07.wav
+
+<group> key=57 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=112 sample=crcy2\ZildjinCrsh 2-Dyn08.wav
+
+<group> key=57 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=127 sample=crcy2\ZildjinCrsh 2-Dyn09.wav
+
+// Ride Cymbal 2
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=8 sample=ride2\ZildMstrsnd-DynSmiOpn01.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=8 hivel=16 sample=ride2\ZildMstrsnd-DynSmiOpn02.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=24 sample=ride2\ZildMstrsnd-DynSmiOpn03.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=24 hivel=32 sample=ride2\ZildMstrsnd-DynSmiOpn04.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=40 sample=ride2\ZildMstrsnd-DynSmiOpn05.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=40 hivel=48 sample=ride2\ZildMstrsnd-DynSmiOpn06.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=56 sample=ride2\ZildMstrsnd-DynSmiOpn07.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=56 hivel=64 sample=ride2\ZildMstrsnd-DynSmiOpn08.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=72 sample=ride2\ZildMstrsnd-DynSmiOpn09.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=72 hivel=80 sample=ride2\ZildMstrsnd-DynSmiOpn10.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=88 sample=ride2\ZildMstrsnd-DynSmiOpn11.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=88 hivel=96 sample=ride2\ZildMstrsnd-DynSmiOpn12.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=104 sample=ride2\ZildMstrsnd-DynSmiOpn13.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=104 hivel=112 sample=ride2\ZildMstrsnd-DynSmiOpn14.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=120 sample=ride2\ZildMstrsnd-DynSmiOpn15.wav
+
+<group> key=59 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=120 hivel=127 sample=ride2\ZildMstrsnd-DynSmiOpn16.wav
+
+// Acoustic Bass Drum / Bass Drum 2
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=10 sample=kick\CLudwigKick-Dyn01.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=10 hivel=20 sample=kick\CLudwigKick-Dyn02.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=20 hivel=30 sample=kick\CLudwigKick-Dyn03.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=30 hivel=40 sample=kick\CLudwigKick-Dyn04.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=40 hivel=50 sample=kick\CLudwigKick-Dyn05.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=50 hivel=60 sample=kick\CLudwigKick-Dyn06.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=60 hivel=70 sample=kick\CLudwigKick-Dyn07.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=70 hivel=80 sample=kick\CLudwigKick-Dyn08.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=90 sample=kick\CLudwigKick-Dyn09.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=90 hivel=100 sample=kick\CLudwigKick-Dyn10.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=100 hivel=110 sample=kick\CLudwigKick-Dyn11.wav
+
+<group> key=35 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=110 hivel=127 sample=kick\CLudwigKick-Dyn12.wav
+
+// Open Hi-hat
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=0 hivel=8 sample=ophat\ZildMstrsnd-DynOpn01.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=8 hivel=16 sample=ophat\ZildMstrsnd-DynOpn02.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=16 hivel=24 sample=ophat\ZildMstrsnd-DynOpn03.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=24 hivel=32 sample=ophat\ZildMstrsnd-DynOpn04.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=32 hivel=40 sample=ophat\ZildMstrsnd-DynOpn05.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=40 hivel=48 sample=ophat\ZildMstrsnd-DynOpn06.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=48 hivel=56 sample=ophat\ZildMstrsnd-DynOpn07.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=56 hivel=64 sample=ophat\ZildMstrsnd-DynOpn08.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=64 hivel=72 sample=ophat\ZildMstrsnd-DynOpn09.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=72 hivel=80 sample=ophat\ZildMstrsnd-DynOpn10.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=80 hivel=88 sample=ophat\ZildMstrsnd-DynOpn11.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=88 hivel=96 sample=ophat\ZildMstrsnd-DynOpn12.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=96 hivel=104 sample=ophat\ZildMstrsnd-DynOpn13.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=104 hivel=112 sample=ophat\ZildMstrsnd-DynOpn14.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=112 hivel=120 sample=ophat\ZildMstrsnd-DynOpn15.wav
+
+<group> key=46 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=120 hivel=127 sample=ophat\ZildMstrsnd-DynOpn16.wav
+
+// Low Floor Tom / Low Tom 2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=8 sample=lftom\CLudwigTom2-DynLH01.wav seq_length=2 seq_position=1
+<region> lovel=0 hivel=8 sample=lftom\CLudwigTom2-DynRH01.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=8 hivel=16 sample=lftom\CLudwigTom2-DynLH02.wav seq_length=2 seq_position=1
+<region> lovel=8 hivel=16 sample=lftom\CLudwigTom2-DynRH02.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=24 sample=lftom\CLudwigTom2-DynLH03.wav seq_length=2 seq_position=1
+<region> lovel=16 hivel=24 sample=lftom\CLudwigTom2-DynRH03.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=24 hivel=32 sample=lftom\CLudwigTom2-DynLH04.wav seq_length=2 seq_position=1
+<region> lovel=24 hivel=32 sample=lftom\CLudwigTom2-DynRH04.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=40 sample=lftom\CLudwigTom2-DynLH05.wav seq_length=2 seq_position=1
+<region> lovel=32 hivel=40 sample=lftom\CLudwigTom2-DynRH05.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=40 hivel=48 sample=lftom\CLudwigTom2-DynLH06.wav seq_length=2 seq_position=1
+<region> lovel=40 hivel=48 sample=lftom\CLudwigTom2-DynRH06.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=56 sample=lftom\CLudwigTom2-DynLH07.wav seq_length=2 seq_position=1
+<region> lovel=48 hivel=56 sample=lftom\CLudwigTom2-DynRH07.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=56 hivel=64 sample=lftom\CLudwigTom2-DynLH08.wav seq_length=2 seq_position=1
+<region> lovel=56 hivel=64 sample=lftom\CLudwigTom2-DynRH08.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=72 sample=lftom\CLudwigTom2-DynLH09.wav seq_length=2 seq_position=1
+<region> lovel=64 hivel=72 sample=lftom\CLudwigTom2-DynRH09.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=72 hivel=80 sample=lftom\CLudwigTom2-DynLH10.wav seq_length=2 seq_position=1
+<region> lovel=72 hivel=80 sample=lftom\CLudwigTom2-DynRH10.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=88 sample=lftom\CLudwigTom2-DynLH11.wav seq_length=2 seq_position=1
+<region> lovel=80 hivel=88 sample=lftom\CLudwigTom2-DynRH11.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=88 hivel=96 sample=lftom\CLudwigTom2-DynLH12.wav seq_length=2 seq_position=1
+<region> lovel=88 hivel=96 sample=lftom\CLudwigTom2-DynRH12.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=104 sample=lftom\CLudwigTom2-DynLH13.wav seq_length=2 seq_position=1
+<region> lovel=96 hivel=104 sample=lftom\CLudwigTom2-DynRH13.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=104 hivel=112 sample=lftom\CLudwigTom2-DynLH14.wav seq_length=2 seq_position=1
+<region> lovel=104 hivel=112 sample=lftom\CLudwigTom2-DynRH14.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=120 sample=lftom\CLudwigTom2-DynLH15.wav seq_length=2 seq_position=1
+<region> lovel=112 hivel=120 sample=lftom\CLudwigTom2-DynRH15.wav seq_length=2 seq_position=2
+
+<group> key=41 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=120 hivel=127 sample=lftom\CLudwigTom2-DynLH16.wav seq_length=2 seq_position=1
+<region> lovel=120 hivel=127 sample=lftom\CLudwigTom2-DynRH16.wav seq_length=2 seq_position=2
+
+// Pedal Hi-hat
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=0 hivel=12 sample=pehat\ZildMstrsnd-DynPed01.wav
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=12 hivel=24 sample=pehat\ZildMstrsnd-DynPed02.wav
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=24 hivel=36 sample=pehat\ZildMstrsnd-DynPed03.wav
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=36 hivel=48 sample=pehat\ZildMstrsnd-DynPed04.wav
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=48 hivel=60 sample=pehat\ZildMstrsnd-DynPed05.wav
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=60 hivel=72 sample=pehat\ZildMstrsnd-DynPed06.wav
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=72 hivel=84 sample=pehat\ZildMstrsnd-DynPed07.wav
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=84 hivel=96 sample=pehat\ZildMstrsnd-DynPed08.wav
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=96 hivel=108 sample=pehat\ZildMstrsnd-DynPed09.wav
+
+<group> key=44 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  group=2 off_by=1 off_mode=normal
+<region> lovel=108 hivel=127 sample=pehat\ZildMstrsnd-DynPed10.wav
+
+// Crash Cymbal 1
+
+<group> key=49 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=16 sample=crcy1\ZildjinCrsh 1-Dyn02.wav
+
+<group> key=49 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=32 sample=crcy1\ZildjinCrsh 1-Dyn03.wav
+
+<group> key=49 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=48 sample=crcy1\ZildjinCrsh 1-Dyn04.wav
+
+<group> key=49 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=64 sample=crcy1\ZildjinCrsh 1-Dyn05.wav
+
+<group> key=49 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=80 sample=crcy1\ZildjinCrsh 1-Dyn06.wav
+
+<group> key=49 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=96 sample=crcy1\ZildjinCrsh 1-Dyn07.wav
+
+<group> key=49 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=112 sample=crcy1\ZildjinCrsh 1-Dyn08.wav
+
+<group> key=49 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=127 sample=crcy1\ZildjinCrsh 1-Dyn09.wav
+
+// Electric Snare / Snare Drum 2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=8 sample=snar2\Rodgers_DynLH01.wav seq_length=2 seq_position=1
+<region> lovel=0 hivel=8 sample=snar2\Rodgers_DynRH01.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=8 hivel=16 sample=snar2\Rodgers_DynLH02.wav seq_length=2 seq_position=1
+<region> lovel=8 hivel=16 sample=snar2\Rodgers_DynRH02.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=24 sample=snar2\Rodgers_DynLH03.wav seq_length=2 seq_position=1
+<region> lovel=16 hivel=24 sample=snar2\Rodgers_DynRH03.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=24 hivel=32 sample=snar2\Rodgers_DynLH04.wav seq_length=2 seq_position=1
+<region> lovel=24 hivel=32 sample=snar2\Rodgers_DynRH04.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=40 sample=snar2\Rodgers_DynLH05.wav seq_length=2 seq_position=1
+<region> lovel=32 hivel=40 sample=snar2\Rodgers_DynRH05.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=40 hivel=48 sample=snar2\Rodgers_DynLH06.wav seq_length=2 seq_position=1
+<region> lovel=40 hivel=48 sample=snar2\Rodgers_DynRH06.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=56 sample=snar2\Rodgers_DynLH07.wav seq_length=2 seq_position=1
+<region> lovel=48 hivel=56 sample=snar2\Rodgers_DynRH07.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=56 hivel=64 sample=snar2\Rodgers_DynLH08.wav seq_length=2 seq_position=1
+<region> lovel=56 hivel=64 sample=snar2\Rodgers_DynRH08.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=72 sample=snar2\Rodgers_DynLH09.wav seq_length=2 seq_position=1
+<region> lovel=64 hivel=72 sample=snar2\Rodgers_DynRH09.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=72 hivel=80 sample=snar2\Rodgers_DynLH10.wav seq_length=2 seq_position=1
+<region> lovel=72 hivel=80 sample=snar2\Rodgers_DynRH10.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=88 sample=snar2\Rodgers_DynLH11.wav seq_length=2 seq_position=1
+<region> lovel=80 hivel=88 sample=snar2\Rodgers_DynRH11.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=88 hivel=96 sample=snar2\Rodgers_DynLH12.wav seq_length=2 seq_position=1
+<region> lovel=88 hivel=96 sample=snar2\Rodgers_DynRH12.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=104 sample=snar2\Rodgers_DynLH13.wav seq_length=2 seq_position=1
+<region> lovel=96 hivel=104 sample=snar2\Rodgers_DynRH13.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=104 hivel=112 sample=snar2\Rodgers_DynLH14.wav seq_length=2 seq_position=1
+<region> lovel=104 hivel=112 sample=snar2\Rodgers_DynRH14.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=120 sample=snar2\Rodgers_DynLH15.wav seq_length=2 seq_position=1
+<region> lovel=112 hivel=120 sample=snar2\Rodgers_DynRH15.wav seq_length=2 seq_position=2
+
+<group> key=40 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=120 hivel=127 sample=snar2\Rodgers_DynLH16.wav seq_length=2 seq_position=1
+<region> lovel=120 hivel=127 sample=snar2\Rodgers_DynRH16.wav seq_length=2 seq_position=2
+
+// Side Stick / Rimshot
+
+<group> key=37 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=16 sample=rims\Rodgers_RimClck01.wav
+
+<group> key=37 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=32 sample=rims\Rodgers_RimClck02.wav
+
+<group> key=37 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=48 sample=rims\Rodgers_RimClck03.wav
+
+<group> key=37 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=64 sample=rims\Rodgers_RimClck04.wav
+
+<group> key=37 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=80 sample=rims\Rodgers_RimClck05.wav
+
+<group> key=37 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=96 sample=rims\Rodgers_RimClck06.wav
+
+<group> key=37 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=112 sample=rims\Rodgers_RimClck07.wav
+
+<group> key=37 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=127 sample=rims\Rodgers_RimClck08.wav
+
+// Acoustic Snare / Snare Drum 1
+
+<group> key=38 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=16 sample=snare\Rodgers_HrdLH01.wav seq_length=2 seq_position=1
+<region> lovel=0 hivel=16 sample=snare\Rodgers_HrdRH01.wav seq_length=2 seq_position=2
+
+<group> key=38 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=32 sample=snare\Rodgers_HrdLH02.wav seq_length=2 seq_position=1
+<region> lovel=16 hivel=32 sample=snare\Rodgers_HrdRH02.wav seq_length=2 seq_position=2
+
+<group> key=38 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=48 sample=snare\Rodgers_HrdLH03.wav seq_length=2 seq_position=1
+<region> lovel=32 hivel=48 sample=snare\Rodgers_HrdRH03.wav seq_length=2 seq_position=2
+
+<group> key=38 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=64 sample=snare\Rodgers_HrdLH04.wav seq_length=2 seq_position=1
+<region> lovel=48 hivel=64 sample=snare\Rodgers_HrdRH04.wav seq_length=2 seq_position=2
+
+<group> key=38 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=80 sample=snare\Rodgers_HrdLH05.wav seq_length=2 seq_position=1
+<region> lovel=64 hivel=80 sample=snare\Rodgers_HrdRH05.wav seq_length=2 seq_position=2
+
+<group> key=38 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=96 sample=snare\Rodgers_HrdLH06.wav seq_length=2 seq_position=1
+<region> lovel=80 hivel=96 sample=snare\Rodgers_HrdRH06.wav seq_length=2 seq_position=2
+
+<group> key=38 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=112 sample=snare\Rodgers_HrdLH07.wav seq_length=2 seq_position=1
+<region> lovel=96 hivel=112 sample=snare\Rodgers_HrdRH07.wav seq_length=2 seq_position=2
+
+<group> key=38 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=127 sample=snare\Rodgers_HrdLH08.wav seq_length=2 seq_position=1
+<region> lovel=112 hivel=127 sample=snare\Rodgers_HrdRH08.wav seq_length=2 seq_position=2
+
+// Closed Hi-hat
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=0 hivel=8 sample=clhat\ZildMstrsnd-DynClsdLH01.wav seq_length=2 seq_position=1
+<region> lovel=0 hivel=8 sample=clhat\ZildMstrsnd-DynClsdRH01.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=8 hivel=16 sample=clhat\ZildMstrsnd-DynClsdLH02.wav seq_length=2 seq_position=1
+<region> lovel=8 hivel=16 sample=clhat\ZildMstrsnd-DynClsdRH02.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=16 hivel=24 sample=clhat\ZildMstrsnd-DynClsdLH03.wav seq_length=2 seq_position=1
+<region> lovel=16 hivel=24 sample=clhat\ZildMstrsnd-DynClsdRH03.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=24 hivel=32 sample=clhat\ZildMstrsnd-DynClsdLH04.wav seq_length=2 seq_position=1
+<region> lovel=24 hivel=32 sample=clhat\ZildMstrsnd-DynClsdRH04.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=32 hivel=40 sample=clhat\ZildMstrsnd-DynClsdLH05.wav seq_length=2 seq_position=1
+<region> lovel=32 hivel=40 sample=clhat\ZildMstrsnd-DynClsdRH05.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=40 hivel=48 sample=clhat\ZildMstrsnd-DynClsdLH06.wav seq_length=2 seq_position=1
+<region> lovel=40 hivel=48 sample=clhat\ZildMstrsnd-DynClsdRH06.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=48 hivel=56 sample=clhat\ZildMstrsnd-DynClsdLH07.wav seq_length=2 seq_position=1
+<region> lovel=48 hivel=56 sample=clhat\ZildMstrsnd-DynClsdRH07.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=56 hivel=64 sample=clhat\ZildMstrsnd-DynClsdLH08.wav seq_length=2 seq_position=1
+<region> lovel=56 hivel=64 sample=clhat\ZildMstrsnd-DynClsdRH08.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=64 hivel=72 sample=clhat\ZildMstrsnd-DynClsdLH09.wav seq_length=2 seq_position=1
+<region> lovel=64 hivel=72 sample=clhat\ZildMstrsnd-DynClsdRH09.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=72 hivel=80 sample=clhat\ZildMstrsnd-DynClsdLH10.wav seq_length=2 seq_position=1
+<region> lovel=72 hivel=80 sample=clhat\ZildMstrsnd-DynClsdRH10.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=80 hivel=88 sample=clhat\ZildMstrsnd-DynClsdLH11.wav seq_length=2 seq_position=1
+<region> lovel=80 hivel=88 sample=clhat\ZildMstrsnd-DynClsdRH11.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=88 hivel=96 sample=clhat\ZildMstrsnd-DynClsdLH12.wav seq_length=2 seq_position=1
+<region> lovel=88 hivel=96 sample=clhat\ZildMstrsnd-DynClsdRH12.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=96 hivel=104 sample=clhat\ZildMstrsnd-DynClsdLH13.wav seq_length=2 seq_position=1
+<region> lovel=96 hivel=104 sample=clhat\ZildMstrsnd-DynClsdRH13.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=104 hivel=112 sample=clhat\ZildMstrsnd-DynClsdLH14.wav seq_length=2 seq_position=1
+<region> lovel=104 hivel=112 sample=clhat\ZildMstrsnd-DynClsdRH14.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=112 hivel=120 sample=clhat\ZildMstrsnd-DynClsdLH15.wav seq_length=2 seq_position=1
+<region> lovel=112 hivel=120 sample=clhat\ZildMstrsnd-DynClsdRH15.wav seq_length=2 seq_position=2
+
+<group> key=42 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot group=1 
+<region> lovel=120 hivel=127 sample=clhat\ZildMstrsnd-DynClsdLH16.wav seq_length=2 seq_position=1
+<region> lovel=120 hivel=127 sample=clhat\ZildMstrsnd-DynClsdRH16.wav seq_length=2 seq_position=2
+
+// Ride Bell
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=8 sample=rbell\SabHHXEvo20_Bell01.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=8 hivel=16 sample=rbell\SabHHXEvo20_Bell02.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=24 sample=rbell\SabHHXEvo20_Bell03.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=24 hivel=32 sample=rbell\SabHHXEvo20_Bell04.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=40 sample=rbell\SabHHXEvo20_Bell05.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=40 hivel=48 sample=rbell\SabHHXEvo20_Bell06.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=56 sample=rbell\SabHHXEvo20_Bell08.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=56 hivel=64 sample=rbell\SabHHXEvo20_Bell09.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=72 sample=rbell\SabHHXEvo20_Bell10.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=72 hivel=80 sample=rbell\SabHHXEvo20_Bell11.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=88 sample=rbell\SabHHXEvo20_Bell12.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=88 hivel=96 sample=rbell\SabHHXEvo20_Bell13.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=104 sample=rbell\SabHHXEvo20_Bell14.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=104 hivel=112 sample=rbell\SabHHXEvo20_Bell15.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=120 sample=rbell\SabHHXEvo20_Bell16.wav
+
+<group> key=53 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=120 hivel=127 sample=rbell\SabHHXEvo20_Bell17.wav
+
+// Ride Cymbal 1
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=0 hivel=8 sample=ride1\SabHHXEvo20-Dyn01.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=8 hivel=16 sample=ride1\SabHHXEvo20-Dyn02.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=16 hivel=24 sample=ride1\SabHHXEvo20-Dyn03.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=24 hivel=32 sample=ride1\SabHHXEvo20-Dyn04.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=32 hivel=40 sample=ride1\SabHHXEvo20-Dyn05.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=40 hivel=48 sample=ride1\SabHHXEvo20-Dyn06.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=48 hivel=56 sample=ride1\SabHHXEvo20-Dyn07.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=56 hivel=64 sample=ride1\SabHHXEvo20-Dyn08.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=64 hivel=72 sample=ride1\SabHHXEvo20-Dyn09.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=72 hivel=80 sample=ride1\SabHHXEvo20-Dyn10.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=80 hivel=88 sample=ride1\SabHHXEvo20-Dyn11.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=88 hivel=96 sample=ride1\SabHHXEvo20-Dyn12.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=96 hivel=104 sample=ride1\SabHHXEvo20-Dyn13.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=104 hivel=112 sample=ride1\SabHHXEvo20-Dyn14.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=112 hivel=120 sample=ride1\SabHHXEvo20-Dyn15.wav
+
+<group> key=51 ampeg_release=.75 ampeg_hold=1 volume=1 pan=0 loop_mode=one_shot  
+<region> lovel=120 hivel=127 sample=ride1\SabHHXEvo20-Dyn17.wav
