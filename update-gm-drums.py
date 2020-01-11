@@ -2,8 +2,8 @@ import csv
 from collections import namedtuple
 
 # drum patches info
-#		https://en.wikipedia.org/wiki/General_MIDI#Percussion
-#		http://computermusicresource.com/GM.Percussion.KeyMap.html
+#  https://en.wikipedia.org/wiki/General_MIDI#Percussion
+#  http://computermusicresource.com/GM.Percussion.KeyMap.html
 
 drum = namedtuple('drum', ['code', 'note', 'title', 'pattern'])
 
