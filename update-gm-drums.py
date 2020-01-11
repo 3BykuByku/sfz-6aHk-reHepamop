@@ -5,10 +5,10 @@ from collections import namedtuple
 #		https://en.wikipedia.org/wiki/General_MIDI#Percussion
 #		http://computermusicresource.com/GM.Percussion.KeyMap.html
 
-drum = namedtuple("drum", ["code", "note", "title", "pattern"])
+drum = namedtuple('drum', ['code', 'note', 'title', 'pattern'])
 
 drums = {}
-with open("GM.csv", newline="") as csvfile:
+with open('GM.csv') as csvfile:
 	for row in csv.reader(csvfile, delimiter="\t"):
 		if len(row) != 4:
 			continue
